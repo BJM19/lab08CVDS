@@ -9,7 +9,7 @@ import edu.eci.cvds.samples.entities.Item;
 
 /**
  *
- * @author 2106913
+ * @author 2152552
  */
 public interface ItemMapper {
     
